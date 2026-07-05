@@ -38,7 +38,7 @@ This project answers three practical questions:
 ## Dataset
 
 The project uses the **European Credit Card Fraud Detection** dataset.
-
+Dataset used in this project can be found here: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 | Property | Description |
 |---|---|
 | Rows | 284,807 transactions |
