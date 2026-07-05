@@ -284,9 +284,6 @@ Chronological splitting provides a more realistic fraud-detection evaluation tha
 .
 ├── gnns_credit_card_fraud_detection.py      # Main implementation script / Colab notebook export
 ├── Final_Report_Team_11_Capstone_F25-2.pdf  # Final project report
-├── memberC_fast_results.csv                 # Generated model results
-├── memberC_results_view.csv                 # Generated benchmark summary
-├── memberC_fast_cluster_feats.npz           # Saved clustering feature block
 └── README.md                                # Project documentation
 ```
 
